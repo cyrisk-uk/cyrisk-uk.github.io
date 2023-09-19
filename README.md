@@ -2,7 +2,7 @@ CyRisk Limited GitHub Pages
 ===========================
 These pages are provided to give access to example and template materials which are free for non-commerical use.
 
-You can visit the CyRisk website [here] (https://www.cyrisk.co.uk).
+You can visit the CyRisk website [here](https://www.cyrisk.co.uk).
 
 [Link to a FAQs]({% link ce_faq.md %})
 
