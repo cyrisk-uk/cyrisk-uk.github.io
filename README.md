@@ -1,4 +1,3 @@
-# cyrisk-uk.github.io
 CyRisk Limited GitHub Pages
 ===========================
 These pages are provided to give access to example and template materials which are free for non-commerical use.
