@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Cyber Essentials User FAQ"
 permalink: /ce/user-faq
+---
 
 Cyber Essentials User FAQ
 ======
