@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Cyber Essentials User FAQ"
 permalink: /ce/user-faq/
 ---
