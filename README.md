@@ -10,3 +10,6 @@ Cyber Essentials
 ================
 These documents are aimed at small organisations which are applying for Cyber Essentials.
 CyRisk have particular experince helping small organisations achieve Cyber Essentials centred around just Microsoft Office 365 and End User Devices (Laptops, Desktops, Smartphones, etc).
+
+Other Things
+-----
