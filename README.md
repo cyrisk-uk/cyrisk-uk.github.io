@@ -4,6 +4,8 @@ These pages are provided to give access to example and template materials which 
 
 You can visit the CyRisk website [here] (https://www.cyrisk.co.uk).
 
+[Link to a FAQs]({% link ce_faq.md %})
+
 The majority of the documents which are provided on this site are written in very simple HTML which means they don't look very attractive, but they are easy to import and edit.
 
 Cyber Essentials
