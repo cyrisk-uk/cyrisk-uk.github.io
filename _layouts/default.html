@@ -6,12 +6,58 @@
     <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>
-    <nav>
-      <a href="/">Home</a>
-      <a href="/services/">Services</a>
-      <a href="/sectors/">Sectors</a>
-      <a href="/about/">About</a>
-    </nav>
+<nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+<div class="container">
+  <a class="navbar-brand" href="/"><img src="/images/cyrisk_r_inv.svg" height="30" alt="" loading="lazy"></a>
+  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav">
+      <!--<li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="index.php?page=services" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="index.php?page=risk">Risk Management</a></li>
+          <li><a class="dropdown-item" href="index.php?page=arch">Security Architecture</a></li>
+          <li><a class="dropdown-item" href="index.php?page=virtual">Virtual Resourcing</a></li>
+          <li><a class="dropdown-item" href="index.php?page=physical">Physical Security</a></li>
+          <li><a class="dropdown-item" href="index.php?page=supply">Supply Chain Risk</a></li>
+          <li><a class="dropdown-item" href="index.php?page=isms">ISO 27001</a></li>
+        </ul>
+      </li>-->
+      <li class="nav-item">
+        <a class="nav-link" href="index.php?page=main">Services</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="index.php?page=packages">Solutions</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="index.php?page=sectors">Sectors</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="index.php?page=about">About Us</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#contact">Contact Us</a>
+      </li>
+
+    </ul>
+  </div>
+  <div class="d-grid gap-3 d-md-block">
+  <div class="row">
+  <div class="col">
+  <a href="https://www.linkedin.com/company/cyrisk/" target="_blank" rel="noopener noreferrer"><i class="bi-linkedin" style="font-size: 2rem; color: white;"></i></a>
+  </div>
+  <div class="col">
+  <a href="https://twitter.com/cyrisk_uk" target="_blank" rel="noopener noreferrer"><i class="bi-twitter" style="font-size: 2rem; color: white;"></i></a>
+  </div>
+  <div class="col">
+  <a href="https://github.com/cyrisk-uk" target="_blank" rel="noopener noreferrer"><i class="bi-github" style="font-size: 2rem; color: white;"></i></a>
+  </div>
+  </div>
+  </div>
+</div>
+</nav>
     <h1>{{ page.title }}</h1>
     <section>
       {{ content }}
