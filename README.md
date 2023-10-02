@@ -5,7 +5,7 @@ GitHub Pages
 ===========================
 These pages are a test of using Jekyll to product static pages
 
-<img src="/images/dand%20cards.jpg"></img>
+<img src="/images/dand%20cards.jpg">
 
 You can visit the CyRisk website [here](https://www.cyrisk.co.uk).
 
